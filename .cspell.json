@@ -100,11 +100,19 @@
     "younes",
     "Adnan",
     "adnanmalkic",
+    "ala",
     "alasaidi",
     "Amira",
     "amirabayoumi",
     "Ashraf",
-    "Ashrafpoless"
+    "PPID",
+    "PGID",
+    "WINPID",
+    "STIME",
+    "mintty",
+    "Ashrafpoless",
+    "Ashrafpoless",
+    "Choti"
   ],
   "ignorePaths": [
     "node_modules/**",
