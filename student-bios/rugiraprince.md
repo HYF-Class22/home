@@ -1,4 +1,4 @@
-# i am rugira prince
+# i am rugiraprince
 
 ![rugiraprince](./img/rugiraprince.jpg)
  now currently learning full stuck web developer
