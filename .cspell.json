@@ -111,8 +111,7 @@
     "Arlon",
     "MINEMBWE",
     "swahili",
-    "Kinyamulenge",
-    "swahili"
+    "Kinyamulenge"
   ],
   "ignorePaths": [
     "node_modules/**",
