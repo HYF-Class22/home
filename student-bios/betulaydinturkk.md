@@ -2,6 +2,8 @@
 
 ---
 
+![Photo.jpeg](../student-bios/img/Photo.jpeg)
+
 ## About Me
 
 I'm Betul. I studied computer enginnering.I'm from Turkey and I have been in
