@@ -29,7 +29,7 @@ I was providing a wide range of services to support, fix, and maintain the hardw
 
 • French (intermediate b1)
 • English (advanced c1)
-• Kiswahili(b1)
+• swahili(b1)
 • Kinyamulenge (mother language)
 
 ### PROFESIONAL SUMMARY
