@@ -113,7 +113,6 @@
     "swahili",
     "Kinyamulenge",
     "swahili"
-
   ],
   "ignorePaths": [
     "node_modules/**",
