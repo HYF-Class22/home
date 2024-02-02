@@ -104,7 +104,15 @@
     "Amira",
     "amirabayoumi",
     "Ashraf",
-    "Ashrafpoless"
+    "Ashrafpoless",
+    "Khant",
+    "Maung",
+    "khantm02",
+    "PPID",
+    "PGID",
+    "WINPID",
+    "STIME",
+    "mintty"
   ],
   "ignorePaths": [
     "node_modules/**",
