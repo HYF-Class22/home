@@ -28,5 +28,5 @@ Reach out via [Email](maungkhantdelica@gmail.com)
 <img src="./img/logos/react.png" width="50" height="50">
 <img src="./img/logos/node.png" width="50" height="50">
 <img src="./img/logos/python.jpeg" width="50" height="50">
-<img src="./img/logos/download.png" width="50" height="50">
-<img src="./img/logos/download (1).png" width="50" height="50">
+<img src="./img/logos/mongoDB.png" width="50" height="50">
+<img src="./img/logos/postgreSQL.png" width="50" height="50">
