@@ -1,4 +1,4 @@
-## Hello from Morocco
+# Hello from Morocco
 
 It's **Younes**
 
@@ -7,13 +7,13 @@ It's **Younes**
 I am in the middle of a career-switch in a bid to face colorful challenges and
 sharpen my skills and competencies.
 
-### My Likes
+## My Likes
 
 - Video-games
 - Guitar
 - Manga
 
-### My aspirations
+## My aspirations
 
 - Upgrade my toolkit as a future full-Stack Developer
 - Familiarize myself with the newest trends in the fied of IT
@@ -22,6 +22,6 @@ sharpen my skills and competencies.
 
 ## |Email:|
 
-|seddouki.younes@gmail.com|
+|<seddouki.younes@gmail.com>|
 
 ![younes's image](./img/younes.jpg)
